@@ -1,4 +1,12 @@
-# E-Commerce Customer Analysis & Predictive Modeling
+<div align='center'>
+  <img style="width:30%" src='https://github.com/user-attachments/assets/4819d36f-186e-4d93-b4e7-1d7669761c13'/>
+</div>
+
+
+<div align='center'> 
+  <h1> E-Commerce Customer Analysis & Predictive Modeling </h1> 
+</div>
+
 
 Welcome to the **E-Commerce Customer Analysis & Predictive Modeling** project! 🚀 This project explores customer behavior through data visualization and predictive modeling, helping us understand what drives customer spending. 
 
