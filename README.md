@@ -17,37 +17,37 @@ Welcome to the **E-Commerce Customer Analysis & Predictive Modeling** project! �
 ### 1️⃣ Time on Website vs. Yearly Amount Spent
 Unlike the app, **time on the website does not strongly correlate with spending**. This suggests improving the website may not significantly impact revenue, while the app experience holds greater potential.
 
-![Time on Website vs Yearly Amount Spent](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/Time%20on%20website.png)
+![Time on Website vs Yearly Amount Spent](https://github.com/Aashishh1/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/Time%20on%20website.png)
 
 ### 2️⃣ Time on App vs. Yearly Amount Spent
 We see a **positive correlation** between time spent on the app and yearly spending. Investing in the app experience could drive higher revenue!
 
-![Time on App vs Yearly Amount Spent](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/time%20on%20app%20yearly%20amount%20spent.png)
+![Time on App vs Yearly Amount Spent](https://github.com/Aashishh1/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/time%20on%20app%20yearly%20amount%20spent.png)
 
 ### 3️⃣ Time on App vs. Length of Membership
 A hexbin plot shows the density of data points. Customers who spend more time on the app are not necessarily long-term members, meaning **app engagement doesn't directly correlate with loyalty.**
 
-![Time on App vs Length of Membership](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/time%20on%20app%20and%20length%20of%20membership.png)
+![Time on App vs Length of Membership](https://github.com/Aashishh1/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/time%20on%20app%20and%20length%20of%20membership.png)
 
 ### 4️⃣ Pairplot - Feature Correlations
 A pairplot helps us visualize relationships between different numerical variables. From this, we can see which features have strong correlations with **Yearly Amount Spent**, hinting at key predictors.
 
-![Pairplot](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/pairplot.png)
+![Pairplot](https://github.com/Aashishh1/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/pairplot.png)
 
 ### 5️⃣ Length of Membership vs. Yearly Amount Spent
 One of the strongest correlations! Customers with longer memberships tend to spend more yearly. This insight suggests **loyalty programs** could be a major driver for revenue growth.
 
-![Length of Membership vs Yearly Amount Spent](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/length%20of%20membership%20vs%20yearly%20amount%20spent.png)
+![Length of Membership vs Yearly Amount Spent](https://github.com/Aashishh1/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/length%20of%20membership%20vs%20yearly%20amount%20spent.png)
 
 ### 6️⃣ Model Performance - Predicted vs. Actual
 Here, we compare our model's predictions to the actual test values. A strong **diagonal alignment** confirms our model is performing well!
 
-![Model Performance](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/scatterplot%20of%20the%20real%20test%20values.png)
+![Model Performance](https://github.com/Aashishh1/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/scatterplot%20of%20the%20real%20test%20values.png)
 
 ### 7️⃣ Histogram of Residuals
 This histogram visualizes the residuals from our linear regression model, showing how well our model fits the data. A normal distribution indicates a good model fit, whereas skewness may suggest underlying patterns the model hasn't captured.
 
-![Histogram of Residuals](https://github.com/27abhishek27/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/histogram%20of%20the%20residuals.png)
+![Histogram of Residuals](https://github.com/Aashishh1/Linear-Regression-Project/blob/main/Linear%20Regression%20project%20png/histogram%20of%20the%20residuals.png)
 
 ---
 
